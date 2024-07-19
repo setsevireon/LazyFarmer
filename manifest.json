@@ -1,0 +1,10 @@
+{
+  "Name": "LazyFarmer",
+  "Author": "LazyGamer",
+  "Version": "1.0.0",
+  "Description": "I am too lazy to write a description.",
+  "UniqueID": "LazyGamer.LazyFarmer",
+  "EntryDll": "LazyFarmer.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
