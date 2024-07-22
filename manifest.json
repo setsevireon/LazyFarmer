@@ -1,7 +1,7 @@
 {
   "Name": "LazyFarmer",
   "Author": "LazyGamer",
-  "Version": "1.0.0",
+  "Version": "0.1.0",
   "Description": "I am too lazy to write a description.",
   "UniqueID": "LazyGamer.LazyFarmer",
   "EntryDll": "LazyFarmer.dll",
