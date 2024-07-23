@@ -6,5 +6,5 @@
   "UniqueID": "LazyGamer.LazyFarmer",
   "EntryDll": "LazyFarmer.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": ["Nexus:26294", "GitHub:setsevireon/LazyFarmer"]
 }
